@@ -73,3 +73,5 @@ The following image shows the application's IndexedDB storage:
 
 
 ## Heroku
+🚀The application has been deployed to Heroku and the URL of the deployed application is:
+https://calm-lake-77021.herokuapp.com/
