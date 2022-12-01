@@ -31,8 +31,8 @@
       "type": "image/png"
     }
   ],
-  "name": "Just Another Text Editor",
-  "short_name": "J.A.T.E",
+  "name": "My text Editor App",
+  "short_name": "My Texitor",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": "/",
