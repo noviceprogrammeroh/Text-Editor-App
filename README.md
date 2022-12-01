@@ -64,11 +64,11 @@ The following image shows the application's `manifest.json` file:
 
 The following image shows the application's registered service worker:
 
-![Demonstration of the finished Module 19 Challenge with a registered service worker in the browser.](./Assets/serviceworker.JPG)
+![Demonstration of the finished Module 19 Challenge with a registered service worker in the browser.](./Assets/serviceworker.png)
 
 The following image shows the application's IndexedDB storage:
 
-![Demonstration of the finished Module 19 Challenge with a IndexedDB storage named 'jate' in the browser.](./Assets/indexdbstorage.JPG)
+![Demonstration of the finished Module 19 Challenge with a IndexedDB storage named 'jate' in the browser.](./Assets/indexdbstorage.png)
 
 
 
